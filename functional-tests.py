@@ -5,6 +5,7 @@ browser = webdriver.Firefox()
 # Maria decidiu utilizar o novo app TODO. Ela entra em sua página principal:
 browser.get('http://localhost:8000')
 
+
 # Ela nota que o título da página menciona TODO
 assert 'To-Do' in browser.title
 
