@@ -1,0 +1,2 @@
+Testes de unidade são muito mais baratos que testes funcionais
+Testes de unidade testam somente módulos pequenos de um sistema (funções, classes, etc), enquanto testes funcionais garantem que o sistema funciona como um todo
